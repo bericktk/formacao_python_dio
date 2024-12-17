@@ -1,1 +1,0 @@
-nome = "bruno erick"
