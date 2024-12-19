@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "dio-bank"
+version = "0.1.0"
+description = ""
+authors = ["bericktk <br.ericktk@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+flask = "*"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
